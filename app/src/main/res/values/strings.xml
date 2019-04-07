@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple QR Code Scanner</string>
+    <string name="result_text_default">Please focus camera to QR Code Read</string>
+    <string name="title_activity_network">NetworkActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

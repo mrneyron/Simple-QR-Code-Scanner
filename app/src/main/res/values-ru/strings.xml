@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Простой QR Код Сканер</string>
+    <string name="result_text_default">Пожалуйста, сфокусируйте камеру на QR Code</string>
+    <string name="title_activity_network">NetworkActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Приборная доска</string>
+    <string name="title_notifications">Уведомления</string>
+</resources>
